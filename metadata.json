@@ -1,0 +1,6 @@
+{
+  "name": "Telnyx Carrier & Billing Monitor",
+  "description": "Telnyx SIP trunk telemetry, billing FinOps monitor, and 3D carrier topology explorer backed by a custom DSA and system design engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
